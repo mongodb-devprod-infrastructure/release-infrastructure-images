@@ -1,2 +1,2 @@
-# release-infrastructure-images
-release-infrastructure-public-images
+# release-infrastructure-public-assets
+
